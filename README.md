@@ -11,9 +11,9 @@ IEEE LATAM Manuscript Submission ID: [9922]
 - Jefferson Ribadeneira
 
 ## Afiliation:
-Facultad de Informática y Electrónica
-Escuela Superior POlitécnica de Chimborazo
-Riobamba - Ecuador
+- Facultad de Informática y Electrónica
+- Escuela Superior Politécnica de Chimborazo
+- Riobamba - Ecuador
 
 ## Description
 This repository contains all the scripts and data necessary to reproduce the results presented in the article titled *“Radio Coverage Analysis of a 4G Network in Ambato’s Center”*, submitted to IEEE Latin America Transactions.
